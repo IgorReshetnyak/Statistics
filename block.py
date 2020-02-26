@@ -4,6 +4,8 @@ Print running average
 Blocking analysis scheme
 Running error
 
+takes as input filename to analyze 
+
 Igor Reshetnyak 2017
 """
 
